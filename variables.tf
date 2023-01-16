@@ -1,4 +1,4 @@
-variable "files" {
+variable "fichiers" {
     type = list(string)
     default = [
         "sources/mammiferes.txt",
